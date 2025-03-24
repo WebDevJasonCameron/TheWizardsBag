@@ -2,10 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('index');
-});
+use App\Http\Controllers\HomeController;
 
-Route::get('/store', function () {
-    return view('store.index');
-});
+Route::get('/', [HomeController::class, 'index'])->name('home');
+home
