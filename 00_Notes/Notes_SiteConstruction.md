@@ -16,46 +16,4 @@ I had to create a layout component.  You use this in your views php pages with t
 
 Get the docs here: [tailwind](https://tailwindcss.com/!). Use the following commands to install:
 
-```bash
-npm i -D tailwindcss postcss autoprefixer
-npm i
-```
-
-Now have npx build a tailwind config file.  Note... you need nodeJS installed (but I thin we are good if we got this far with npm).  Use the following commands:
-
-```bash
-npx tailwindcss init -p
-```
-
-#### Workarounds
-None of what should happened, happened in PHPStorm and I don't know why.  Here is what I had to do to get things to work:
-1. Delete the node_modules from the terminal with `rm -rf node_modules package-lock.json`
-2. Copy and past the node_modules from a working project
-3. Run `npx tailwindcss init -p` to git the tailwindcss config file
-4. Include the line `@vite('resources/css/app.css')` within the head of the layout.blade.php file
-5. Replace the /resources/css/app.css content with:
-
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
-
-6. Replace the vite.config.js content with:
-
-```php
-import { defineConfig } from 'vite';
-import laravel from 'laravel-vite-plugin';
-
-export default defineConfig({
-    plugins: [
-        laravel({
-            input: ['resources/css/app.css', 'resources/js/app.js'],
-            refresh: true,
-        }),
-    ],
-});
-
-```
-
-7. Finally tested this by including class tags with tw css in them and ran `npm run dev` in the terminal to see auto changes
+Laravel will likely have everything installed and updated.  Ensure that the header has ` @vite('resources/css/app.css')` added!
