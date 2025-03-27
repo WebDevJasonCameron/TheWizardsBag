@@ -20,7 +20,7 @@
         {{--NAV--}}
         <nav class="flex justify-between items-center mb-4">
             <a href="/">
-                <img class="w-24" src="/storage/images/logo.png" alt="logo"/>
+                <img class="w-24" src="{{ asset('images/logo.png') }}" alt="logo"/>
             </a>
             <ul class="flex space-x-6 mr-6 text-lg">
                 <li>
