@@ -8,7 +8,7 @@
 
 ```psql
 
-CREATE DATABASE wizards_bag
+CREATE DATABASE wizards_db
     WITH
     OWNER = postgres
     ENCODING = 'UTF8'

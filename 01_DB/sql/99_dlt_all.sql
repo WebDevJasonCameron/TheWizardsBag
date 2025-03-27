@@ -24,4 +24,4 @@ DROP TABLE IF EXISTS rpg_classes;
 DROP TABLE IF EXISTS sources;
 
 -- Drop DB Last
-DROP DATABASE IF EXISTS the_wizards_db;
+DROP DATABASE IF EXISTS wizards_db;
