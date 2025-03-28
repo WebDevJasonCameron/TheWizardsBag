@@ -46,10 +46,10 @@
 
             <div class="z-10">
                 <h1 class="text-6xl font-bold uppercase text-white">
-                    Lara<span class="text-black">Gigs</span>
+                    Lara<span class="text-black">ITEMS</span>
                 </h1>
                 <p class="text-2xl text-gray-200 font-bold my-4">
-                    Find or post Laravel jobs & projects
+                    Come in, we've got so much more!
                 </p>
                 <div>
                     <a href="/"
@@ -71,7 +71,7 @@
                         type="text"
                         name="search"
                         class="h-14 w-full pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none"
-                        placeholder="Search Laravel Gigs..."/>
+                        placeholder="Search for that Special Item..."/>
                     <div class="absolute top-2 right-2">
                         <button
                             type="submit"
