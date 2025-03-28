@@ -91,25 +91,25 @@
                             alt=""/>
                         <div>
                             <h3 class="text-2xl">
-                                <a href="/">Senior Laravel Developer</a>
+                                <a href="/">Item Name</a>
                             </h3>
-                            <div class="text-xl font-bold mb-4">Acme Corp</div>
+                            <div class="text-xl font-bold mb-4">Item Cost</div>
                             <ul class="flex">
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Laravel</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">API</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Backend</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Vue</a>
+                                    <a href="#">tag</a>
                                 </li>
                             </ul>
                             <div class="text-lg mt-4">
-                                <i class="fa-solid fa-location-dot"></i> Boston, MA
+                                Short Description
                             </div>
                         </div>
                     </div>
@@ -124,27 +124,25 @@
                             alt=""/>
                         <div>
                             <h3 class="text-2xl">
-                                <a href="/">Full-Stack Engineer</a>
+                                <a href="/">Item Name</a>
                             </h3>
-                            <div class="text-xl font-bold mb-4">
-                                Stark Industries
-                            </div>
+                            <div class="text-xl font-bold mb-4">Item Cost</div>
                             <ul class="flex">
-                                <li  class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Laravel</a>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">API</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Backend</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Vue</a>
+                                    <a href="#">tag</a>
                                 </li>
                             </ul>
                             <div class="text-lg mt-4">
-                                <i class="fa-solid fa-location-dot"></i> Lawrence, MA
+                                Short Description
                             </div>
                         </div>
                     </div>
@@ -159,27 +157,25 @@
                             alt=""/>
                         <div>
                             <h3 class="text-2xl">
-                                <a href="/">Laravel Developer</a>
+                                <a href="/">Item Name</a>
                             </h3>
-                            <div class="text-xl font-bold mb-4">
-                                Wayne Enterprises
-                            </div>
+                            <div class="text-xl font-bold mb-4">Item Cost</div>
                             <ul class="flex">
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Laravel</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">API</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Backend</a>
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    <a href="#">Vue</a>
+                                    <a href="#">tag</a>
                                 </li>
                             </ul>
                             <div class="text-lg mt-4">
-                                <i class="fa-solid fa-location-dot"></i> Newark, NJ
+                                Short Description
                             </div>
                         </div>
                     </div>
@@ -194,27 +190,25 @@
                             alt=""/>
                         <div>
                             <h3 class="text-2xl">
-                                <a href="/">Backend Laravel Dev</a>
+                                <a href="/">Item Name</a>
                             </h3>
-                            <div class="text-xl font-bold mb-4">
-                                Skynet Systems
-                            </div>
+                            <div class="text-xl font-bold mb-4">Item Cost</div>
                             <ul class="flex">
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    Laravel
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    API
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    Backend
+                                    <a href="#">tag</a>
                                 </li>
                                 <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
-                                    Vue
+                                    <a href="#">tag</a>
                                 </li>
                             </ul>
                             <div class="text-lg mt-4">
-                                <i class="fa-solid fa-location-dot"></i>  Daytona, FL
+                                Short Description
                             </div>
                         </div>
                     </div>
@@ -226,30 +220,61 @@
                         <img
                             class="hidden w-48 mr-6 md:block"
                             src="/"
-                            alt="" />
+                            alt=""/>
                         <div>
                             <h3 class="text-2xl">
-                                <a href="/">Junior Developer</a>
+                                <a href="/">Item Name</a>
                             </h3>
-                            <div class="text-xl font-bold mb-4">
-                                Wonka Industries
-                            </div>
+                            <div class="text-xl font-bold mb-4">Item Cost</div>
                             <ul class="flex">
-                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs" >
-                                    <a href="#">Laravel</a>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
                                 </li>
-                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs" >
-                                    <a href="#">API</a>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
                                 </li>
-                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs" >
-                                    <a href="#">Backend</a>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
                                 </li>
-                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs" >
-                                    <a href="#">Vue</a>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
                                 </li>
                             </ul>
                             <div class="text-lg mt-4">
-                                <i class="fa-solid fa-location-dot"></i> San Francisco, CA
+                                Short Description
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item 6 -->
+                <div class="bg-gray-50 border border-gray-200 rounded p-6">
+                    <div class="flex">
+                        <img
+                            class="hidden w-48 mr-6 md:block"
+                            src="/"
+                            alt=""/>
+                        <div>
+                            <h3 class="text-2xl">
+                                <a href="/">Item Name</a>
+                            </h3>
+                            <div class="text-xl font-bold mb-4">Item Cost</div>
+                            <ul class="flex">
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
+                                </li>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
+                                </li>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
+                                </li>
+                                <li class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs">
+                                    <a href="#">tag</a>
+                                </li>
+                            </ul>
+                            <div class="text-lg mt-4">
+                                Short Description
                             </div>
                         </div>
                     </div>
